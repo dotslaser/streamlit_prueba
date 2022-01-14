@@ -13,3 +13,5 @@ st.subheader('Introduction')
 st.write('First App')
 
 st.write(df)
+
+st.line_chart(df)
